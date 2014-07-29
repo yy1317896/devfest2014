@@ -9,7 +9,7 @@ title: 2014年南阳谷歌开发者社区 Devfest 大会官方网站
 email: gdgnanyang@gmail.com
 description: "南阳GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。"
 baseurl: ""
-url: "http://devfest.gdgny.org"
+url: "http://127.0.0.1:4000"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -68,4 +68,15 @@ fbFollowUsUrl: "https://facebook.com/GDGLviv"
 
 # Blog
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: false
+duoshuoShortName: "devfest"
+duoshuoDev: true
+
+# Static Files
+JSjQueryURL: "//dn-staticfile.qbox.me/jquery/2.1.1/jquery.min.js"
+JSBootstrapURL: "//dn-staticfile.qbox.me/twitter-bootstrap/3.2.0/js/bootstrap.min.js"
+CSSBootstrapURL: "//dn-staticfile.qbox.me/twitter-bootstrap/3.2.0/css/bootstrap.min.css"
+
+# Google Service Domains
+GMapAPIDomain: "https://maps.google.com" 
+GFontsDomain: "http://fonts.useso.com"

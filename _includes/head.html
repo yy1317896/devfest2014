@@ -45,10 +45,10 @@
     <meta name="msapplication-TileImage" content="{{ "/img/favicons/mstile-144x144.png" | prepend: site.baseurl }}">
     <meta name="msapplication-config" content="{{ "/img/favicons/browserconfig.xml" | prepend: site.baseurl }}">
 
-    <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='{{ site.GFontsDomain }}/css?family=Roboto:100,300,400,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="{{ site.CSSBootstrapURL }}">
     <!-- TODC Bootstrap theme -->
 <!--    <link href="{{ "/css/todc-bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">-->
     <link href="{{ "/css/animate.min.css" | prepend: site.baseurl }}" rel="stylesheet">
