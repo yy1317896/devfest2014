@@ -5,11 +5,11 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: GDG DevFest Nanyang Season 2014
+title: 2014年南阳谷歌开发者社区 Devfest 大会官方网站
 email: gdgnanyang@gmail.com
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdggulu.github.io"
+description: "南阳GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。"
+baseurl: "/"
+url: "http://devfest.gdgny.org"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
