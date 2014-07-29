@@ -5,8 +5,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: GDG DevFest Season 2014
-email: denisogwang20@gmail.com
+title: GDG DevFest Nanyang Season 2014
+email: gdgnanyang@gmail.com
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://gdggulu.github.io"
