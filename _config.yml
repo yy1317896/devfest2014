@@ -15,19 +15,19 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Location block
-eventLocationName: "Technology Innovations Hub, Gulu City"
-eventLocationAddress: "22 Teatral'na St, Lviv"
+eventLocationName: "Longxin International Hotel （龙鑫国际大酒店）"
+eventLocationAddress: "Henan, Nanyang, Wancheng, Dushan Avenue (Middle Section) 独山大道与滨河路交汇处"
 eventStartTime: "2014-10-18T10:00"
 eventStartTimeHumanReadable: "10:00"
 eventEndTime: "2014-10-18T20:00"
 eventEndTimeHumanReadable: "20:00"
-eventPlaceCoordinates: "49.843237,24.028751"
-mapCenterCoordinates: "49.842537,24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "32.98888,112.56749"
+mapCenterCoordinates: "32.98888,112.56749"
+mapMobileCenterCoordinates: "32.98888,112.56749"
 
 # Logistics Location Block
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "32.98888,112.56749"
+logisticsMapMobileCenterCoordinates: "32.98888,112.56749"
 
 #Tweets feed
 twitterHashTag: "devfest"
@@ -79,4 +79,4 @@ CSSBootstrapURL: "//dn-staticfile.qbox.me/twitter-bootstrap/3.2.0/css/bootstrap.
 
 # Google Service Domains
 GMapAPIDomain: "https://maps.google.com" 
-GFontsDomain: "http://fonts.useso.com"
+GFontsDomain: "https://fonts.lug.ustc.edu.cn"
