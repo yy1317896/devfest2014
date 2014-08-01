@@ -78,5 +78,5 @@ JSBootstrapURL: "//dn-staticfile.qbox.me/twitter-bootstrap/3.2.0/js/bootstrap.mi
 CSSBootstrapURL: "//dn-staticfile.qbox.me/twitter-bootstrap/3.2.0/css/bootstrap.min.css"
 
 # Google Service Domains
-GMapAPIDomain: "https://maps.google.com" 
+GMapAPIDomain: "http://maps.api.gdgdocs.org/" 
 GFontsDomain: "https://fonts.lug.ustc.edu.cn"
