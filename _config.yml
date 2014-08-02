@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: 2014年南阳谷歌开发者社区 Devfest 大会官方网站
+title: 2014年南阳 GDG Devfest 大会官方网站
 email: gdgnanyang@gmail.com
 description: "南阳GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。"
 baseurl: ""
@@ -15,18 +15,18 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Location block
-eventLocationName: "Longxin International Hotel （龙鑫国际大酒店）"
-eventLocationAddress: "Henan, Nanyang, Wancheng, Dushan Avenue (Middle Section) 独山大道与滨河路交汇处"
+eventLocationName: "Longxin International Hotel（龙鑫国际大酒店）"
+eventLocationAddress: "Henan, Nanyang, Wancheng, Dushan Avenue (Middle Section) 独山大道中段与滨河路交汇处"
 eventStartTime: "2014-10-18T10:00"
 eventStartTimeHumanReadable: "10:00"
 eventEndTime: "2014-10-18T20:00"
 eventEndTimeHumanReadable: "20:00"
-eventPlaceCoordinates: "32.98888,112.56749"
-mapCenterCoordinates: "32.98888,112.56749"
+eventPlaceCoordinates: "32.9889721161,112.5682467384"
+mapCenterCoordinates: "32.9919545708,112.5583146484"
 mapMobileCenterCoordinates: "32.98888,112.56749"
 
 # Logistics Location Block
-logisticsMapCenterCoordinates: "32.98888,112.56749"
+logisticsMapCenterCoordinates: "32.9903396,112.5591507"
 logisticsMapMobileCenterCoordinates: "32.98888,112.56749"
 
 #Tweets feed
