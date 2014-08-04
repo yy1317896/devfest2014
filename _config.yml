@@ -37,7 +37,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 subscribeAction: "http://gdgny.us7.list-manage.com/subscribe/post?u=a42cb83b687823026c1a7acaf&amp;id=3c5dcb7fca"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "https://www.gdgdocs.org/forms/d/1DwPlsTWAxT2umrURLZDIE94HVGSP9cS9t4PHt6L9UVo/viewform"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
@@ -62,9 +62,9 @@ showSessions: true
 thumbnailsFolder: /img/speakers/
 
 # Footer
-gplusFollowUsUrl: "https://plus.google.com/b/102444623953913144164"
-twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGLviv"
-fbFollowUsUrl: "https://facebook.com/GDGLviv"
+gplusFollowUsUrl: "https://www.google.com/+GDGNYOrg"
+twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGNanyang"
+fbFollowUsUrl: ""
 
 # Blog
 blogCommentsEnabled: true
