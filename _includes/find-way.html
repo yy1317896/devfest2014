@@ -3,7 +3,7 @@
 <section id="find-way">    
     <div id="canvas-map"></div>
     <div class="content-wrapper text-left">
-        <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">Find your way here</h3>
+        <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">线路导航</h3>
         <div class="map-card col-lg-3 col-md-4 col-sm-6 col-xs-12">
             <div class="map-search">
                 <input type="text" id="location-input" class="location-input" name="location-input" data-input-value="Your location" placeholder="Your location" autocomplete="off">
@@ -25,7 +25,7 @@
                     <svg class="icon icon-flag" viewBox="0 0 30 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flag"></use>
                     </svg>
-                    <span>Distance</span>
+                    <span>距离</span>
                     <span id="distance" class="details-result pull-right"></span>
                 </li>
                 <li>
@@ -34,14 +34,14 @@
                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flight"></use>
                         </svg>
                         <select id="mode-select">
-                            <option value="DRIVING">DRIVING</option>
-                            <option value="WALKING">WALKING</option>
-                            <option value="BICYCLING">BICYCLING</option>
-                            <option value="TRANSIT">TRANSIT</option>
+                            <option value="DRIVING">开车</option>
+                            <option value="WALKING">步行</option>
+                            <option value="BICYCLING">自行车</option>
+                            <option value="TRANSIT">公共交通</option>
                         </select>
                         <span id="estimateTime" class="details-result pull-right"></span>
                     </div>
-                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">Find Flight</a>
+                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">这么远？您还是飞过来吧</a>
                 </li>
             </ul>
         </div>
