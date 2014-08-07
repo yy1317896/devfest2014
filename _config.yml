@@ -37,7 +37,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 subscribeAction: "http://gdgny.us7.list-manage.com/subscribe/post?u=a42cb83b687823026c1a7acaf&amp;id=3c5dcb7fca"
 
 # Documents
-c4pUrl: "https://www.gdgdocs.org/forms/d/1DwPlsTWAxT2umrURLZDIE94HVGSP9cS9t4PHt6L9UVo/viewform"
+c4pUrl: "https://gdgdocs.org/r/9XnMfx"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
@@ -55,7 +55,7 @@ typeoutTextValues: ' "", "Season", "Ukraine", "Germany", "USA", "China","Nanyang
 eventName: "GDG DevFest (Google 开发者大会)"
 
 # Team Block
-aboutUs: Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences.
+aboutUs: "仅从技术上讲，Google 已然是引领全球技术创新的代名词，其产品（Google+ 除外）也正在改变无数人的生活，一些非常创新且意想不到的项目，都被这些顶尖的开发者所创造，无数的创业公司、中小公司、大型企业通过 Google 开放的生态环境成功的建立起属于他们的商业帝国，这也是我们，为什么坚定的通过 Google 的技术进行创新，并坚持把这些技术分享给更多的人的原因。<br />全世界范围内，越来越多的开发者开始讨论并使用 Google 的技术进行创新，所以就有了自发组织的谷歌开发者社区，令人兴奋的是，Google 官方在各个方面给社区以最大的支持，所以，请支持先进技术的发展，支持谷歌开发者社区，谢谢！<br />——ChengLu, 南阳 GDG 创始人。"
 
 # Speakers List Block
 showSessions: true
