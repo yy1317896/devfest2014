@@ -1,4 +1,5 @@
-# Project Zeppelin / GDG DevFest 2014 site template Chinese Version
+# Project Zeppelin / GDG Devfest 大会模板中文版
 
-### About 
+### 原版介绍
+
 [英文版介绍](https://github.com/gdg-x/zeppelin/blob/master/README.md)
