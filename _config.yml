@@ -5,9 +5,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: 2014年南阳 GDG Devfest 大会官方网站
+title: 2014年厦门 GDG Devfest 大会官方网站
 email: gdgnanyang@gmail.com
-description: "南阳GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。"
+description: "厦门GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。"
 baseurl: ""
 url: "http://devfest.gdgny.org"
 permalink: /blog/:title
@@ -17,9 +17,9 @@ googleAnalyticsSiteUrl: ""
 # Location block
 eventLocationName: "Longxin International Hotel（龙鑫国际大酒店）"
 eventLocationAddress: "Henan, Nanyang, Wancheng, Dushan Avenue (Middle Section) 独山大道中段与滨河路交汇处"
-eventStartTime: "2014-10-18T10:00"
+eventStartTime: "2014-10-25T10:00"
 eventStartTimeHumanReadable: "10:00"
-eventEndTime: "2014-10-18T20:00"
+eventEndTime: "2014-10-25T20:00"
 eventEndTimeHumanReadable: "20:00"
 eventPlaceCoordinates: "32.9889721161,112.5682467384"
 mapCenterCoordinates: "32.9919545708,112.5583146484"
@@ -41,7 +41,7 @@ c4pUrl: "https://gdgdocs.org/r/9XnMfx"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
-metaKeywords: "GDG,南阳 GDG,开发者大会,event, gdg, devfest, google, programming, android, chrome, developers"
+metaKeywords: "GDG,厦门 GDG,开发者大会,event, gdg, devfest, google, programming, android, chrome, developers"
 twitterAccount: "@GDGNanyang"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -49,7 +49,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
 eventDate: "2014年 9月 ~ 11月"
-typeoutTextValues: ' "", "Season", "Ukraine", "Germany", "USA", "China","Nanyang" '
+typeoutTextValues: ' "", "Season", "Ukraine", "Germany", "USA", "China","Xiamen" '
 
 # About Event Block
 eventName: "GDG DevFest (Google 开发者大会)"
