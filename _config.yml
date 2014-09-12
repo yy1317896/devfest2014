@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: 2014年厦门 GDG Devfest 大会官方网站
 email: gdgnanyang@gmail.com
 description: "厦门GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。"
-baseurl: "/devfest2014"
+baseurl: ""
 url: "http://devfest.gdgny.org"
 permalink: /blog/:title
 googleAnalyticsTrackingId: ""
