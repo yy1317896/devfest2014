@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "南阳 GDG Devest 大会官网正式开通"
+title:  "厦门 GDG Devest 大会官网正式开通"
 date:   2014-08-04 16:00:00
 isStaticPost: false
 ---
