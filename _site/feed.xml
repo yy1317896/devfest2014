@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2014年南阳 GDG Devfest 大会官方网站</title>
-    <description>南阳GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。</description>
-    <link>http://devfest.gdgny.org/</link>
-    <atom:link href="http://devfest.gdgny.org/feed.xml" rel="self" type="application/rss+xml" />
+    <title>2014年厦门 GDG Devfest 大会官方网站</title>
+    <description>厦门GDG Devfest 2014 Season官方网站，所有关于本会议的信息均在此做最新更新。</description>
+    <link>http://devfest.gdgxiamen.org/</link>
+    <atom:link href="http://devfest.gdgxiamen.org/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>南阳 GDG Devest 大会官网正式开通</title>
-        <description>&lt;p&gt;我们非常高兴的宣布，南阳 GDG Devfest 大会官网于今天正式开通！&lt;/p&gt;
+        <title>厦门 GDG Devest 大会官网正式开通</title>
+        <description>&lt;p&gt;我们非常高兴的宣布，厦门 GDG Devfest 大会官网于今天正式开通！&lt;/p&gt;
 
 &lt;p&gt;GDG Devfest 是 GDG 社区举办的年度开发者大会，大会聚集所有技术爱好欢聚一堂，共同讨论如果使用先进的技术进行创新和创业。&lt;/p&gt;
 
-&lt;p&gt;2014年南阳 GDG Devfest 大会安排在9月~11月的某一天，现在开放官网，开放 Devfest 讲师报名，同时我们欢迎各界人士向我们提供赞助，&lt;a href=&quot;http://devfest.gdgny.org/assets/GDG_DevFest_Partnership.pdf&quot;&gt;赞助说明&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;2014年厦门 GDG Devfest 大会安排在10月25日，现在开放官网，开放 Devfest 讲师报名，同时我们欢迎各界人士向我们提供赞助，&lt;a href=&quot;http://devfest.gdgxiamen.org/assets/GDG_Xiamen_DevFest_Partnership.pdf&quot;&gt;赞助说明&lt;/a&gt;。&lt;/p&gt;
 
 &lt;p&gt;未来的一段时间我们会举办关于 Devfest 大会的各种活动，请密切保持关注。&lt;/p&gt;
 
 &lt;p&gt;谢谢大家！&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Aug 2014 00:00:00 +0800</pubDate>
-        <link>http://devfest.gdgny.org/blog/devfest-site-alive</link>
-        <guid isPermaLink="true">http://devfest.gdgny.org/blog/devfest-site-alive</guid>
+        <link>http://devfest.gdgxiamen.org/blog/devfest-site-alive</link>
+        <guid isPermaLink="true">http://devfest.gdgxiamen.org/blog/devfest-site-alive</guid>
       </item>
     
   </channel>
