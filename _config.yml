@@ -21,13 +21,13 @@ eventStartTime: "2014-10-25T10:00"
 eventStartTimeHumanReadable: "10:00"
 eventEndTime: "2014-10-25T17:00"
 eventEndTimeHumanReadable: "17:00"
-eventPlaceCoordinates: "24.624536, 118.085748"
-mapCenterCoordinates: "24.624536, 118.085748"
-mapMobileCenterCoordinates: "24.624536, 118.085748"
+eventPlaceCoordinates: "24.455429, 118.085909"
+mapCenterCoordinates: "24.455429, 118.085909"
+mapMobileCenterCoordinates: "24.455429, 118.085909"
 
 # Logistics Location Block
-logisticsMapCenterCoordinates: "24.624536, 118.085748"
-logisticsMapMobileCenterCoordinates: "24.624536, 118.085748"
+logisticsMapCenterCoordinates: "24.455429, 118.085909"
+logisticsMapMobileCenterCoordinates: "24.455429, 118.085909"
 
 #Tweets feed
 twitterHashTag: "devfest"
