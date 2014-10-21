@@ -5,10 +5,10 @@
   company: "厦门大学信息科学与技术学院"
   title: ""
   bio: "厦门GDG负责人，厦门大学信息科学与技术学院高级工程师，教育部-谷歌校企合作专业综合改革项目专家委员会委员，全国大学生嵌入式大赛评委，中国计算机学会微机（嵌入式系统）专委会委员，主要从事移动互联网、嵌入式系统、人工智能与模式识别方向的研究。"
-  thumbnailUrl: null
+  thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/"}
 - 
   id: 4
   name: "高焕堂"
@@ -16,10 +16,10 @@
   company: "工信部数字家庭推进中心OFA开放平台联盟"
   title: ""
   bio:"台湾Android技术论坛主席；工信部数字家庭推进中心OFA开放平台联盟主席；《思考软件，创新设计：A段架构师的思考技术》一书的作者；《UML嵌入式设计》和《UML+OOPC嵌入式C语言开发精讲》书籍作者；此外，还出版了11本Android技术书籍。"
-  thumbnailUrl:null
+  thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/"}
   
   id: 5
   name: "陈三"
@@ -27,10 +27,10 @@
   company: ""
   title: ""
   bio:"陈三，Web前端开发人员，擅长HTML5，Google Web Fundamental中文翻译贡献者，Vimperator 用户，Ingress 厦门启示军成员。"
-  thumbnailUrl:null
+  thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/"}
     
   id: 6
   name: "郭国勇"
@@ -38,10 +38,10 @@
   company: ""
   title: ""
   bio:"厦门谷歌开发者社区联合创始人；多年的Android系统开发经验"
-  thumbnailUrl:null
+  thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/"}
     
   id: 7
   name: "韩国凯"
@@ -49,10 +49,10 @@
   company: ""
   title: ""
   bio:"中国首位GDE( Google Developers Expert），第一本 Dart 语言书籍《Dart语言程序设计》译者，GDG Weekly主编，北京 GDG 组织者。"
-  thumbnailUrl:null
+  thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/"}
     
   id: 8
   name: "隋雨辰"
@@ -60,10 +60,10 @@
   company: ""
   title: ""
   bio:"厦门谷歌开发者社区联合负责人；新博教育培训创始人、教学总监。"
-  thumbnailUrl:null
+  thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/"}
     
   id: 8
   name: "吴德文"
@@ -71,7 +71,7 @@
   company: ""
   title: ""
   bio:"厦门谷歌开发者社区厦大俱乐部负责人；厦门大学信息学院 工程师。"
-  thumbnailUrl:null
+  thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/"}
