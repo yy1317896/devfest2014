@@ -53,25 +53,3 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
-- 
-  id: 8
-  name: "隋雨辰"
-  surname: " "
-  company: "公司：暂无"
-  title: "厦门谷歌开发者社区联合负责人"
-  bio:"厦门谷歌开发者社区联合负责人；新博教育培训创始人、教学总监。"
-  thumbnailUrl:DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
-- 
-  id: 9
-  name: "吴德文"
-  surname: " "
-  company: "公司：暂无"
-  title: "厦门谷歌开发者社区厦大俱乐部负责人；"
-  bio:"厦门谷歌开发者社区厦大俱乐部负责人；厦门大学信息学院 工程师。"
-  thumbnailUrl:DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
