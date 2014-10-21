@@ -1,9 +1,9 @@
 - 
   id: 3
   name: "郑灵翔"
-  surname: ""
-  company: ""
-  title: " "
+  surname: " "
+  company: "公司："
+  title: "厦门GDG负责人"
   bio: "厦门GDG负责人，厦门大学信息科学与技术学院高级工程师，教育部-谷歌校企合作专业综合改革项目专家委员会委员，全国大学生嵌入式大赛评委，中国计算机学会微机（嵌入式系统）专委会委员，主要从事移动互联网、嵌入式系统、人工智能与模式识别方向的研究。"
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
@@ -12,9 +12,9 @@
 - 
   id: 4
   name: "高焕堂"
-  surname: ""
-  company: ""
-  title: " "
+  surname: " "
+  company: "公司：暂无"
+  title: "台湾Android技术论坛主席"
   bio:"台湾Android技术论坛主席；工信部数字家庭推进中心OFA开放平台联盟主席；《思考软件，创新设计：A段架构师的思考技术》一书的作者；《UML嵌入式设计》和《UML+OOPC嵌入式C语言开发精讲》书籍作者；此外，还出版了11本Android技术书籍。"
   thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
@@ -23,9 +23,9 @@
   
   id: 5
   name: "陈三"
-  surname: ""
-  company: ""
-  title: ""
+  surname: " "
+  company: "公司：暂无"
+  title: "Web前端开发人员，擅长HTML5"
   bio:"陈三，Web前端开发人员，擅长HTML5，Google Web Fundamental中文翻译贡献者，Vimperator 用户，Ingress 厦门启示军成员。"
   thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
@@ -34,9 +34,9 @@
     
   id: 6
   name: "郭国勇"
-  surname: ""
-  company: ""
-  title: " "
+  surname: " "
+  company: "公司：暂无"
+  title: "厦门谷歌开发者社区联合创始人"
   bio:"厦门谷歌开发者社区联合创始人；多年的Android系统开发经验"
   thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
@@ -45,9 +45,9 @@
     
   id: 7
   name: "韩国凯"
-  surname: ""
-  company: ""
-  title: " "
+  surname: " "
+  company: "公司：暂无"
+  title: "中国首位GDE( Google Developers Expert）"
   bio:"中国首位GDE( Google Developers Expert），第一本 Dart 语言书籍《Dart语言程序设计》译者，GDG Weekly主编，北京 GDG 组织者。"
   thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
@@ -56,9 +56,9 @@
     
   id: 8
   name: "隋雨辰"
-  surname: ""
-  company: ""
-  title: " "
+  surname: " "
+  company: "公司：暂无"
+  title: "厦门谷歌开发者社区联合负责人"
   bio:"厦门谷歌开发者社区联合负责人；新博教育培训创始人、教学总监。"
   thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
@@ -67,9 +67,9 @@
     
   id: 8
   name: "吴德文"
-  surname: ""
-  company: ""
-  title: " "
+  surname: " "
+  company: "公司：暂无"
+  title: "厦门谷歌开发者社区厦大俱乐部负责人；"
   bio:"厦门谷歌开发者社区厦大俱乐部负责人；厦门大学信息学院 工程师。"
   thumbnailUrl:DawidOstrowski.jpg
   rockstar: true
