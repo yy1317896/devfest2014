@@ -1,50 +1,70 @@
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "郑灵翔 厦门GDG负责人,"
+  description: "厦门GDG负责人，厦门大学信息科学与技术学院高级工程师，教育部-谷歌校企合作专业综合改革项目专家委员会委员，全国大学生嵌入式大赛评委，中国计算机学会微机（嵌入式系统）专委会委员，主要从事移动互联网、嵌入式系统、人工智能与模式识别方向的研究。"
   track: android
   subtype: workshop
   speakers: [3]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: ch
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+  title: "高焕堂 台湾Android技术论坛主席,"
+  description: "台湾Android技术论坛主席；工信部数字家庭推进中心OFA开放平台联盟主席；《思考软件，创新设计：A段架构师的思考技术》一书的作者；《UML嵌入式设计》和《UML+OOPC嵌入式C语言开发精讲》书籍作者；此外，还出版了11本Android技术书籍。"
   track: cloud
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [4]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: ch
 -
   id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "陈三 Web前端开发人员,"
+  description: "陈三，Web前端开发人员，擅长HTML5，Google Web Fundamental中文翻译贡献者，Vimperator 用户，Ingress 厦门启示军成员。"
   track: android
   subtype: presentation
-  speakers: [4]
+  speakers: [5]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
   language: en
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "郭国勇 厦门谷歌开发者社区联合创始人,"
+  description: "厦门谷歌开发者社区联合创始人；多年的Android系统开发经验"
   track: web
   subtype: keynote
   speakers: [6]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: uk
+  language: ch
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "韩国凯 中国首位GDE( Google Developers Expert）"
+  description: "中国首位GDE( Google Developers Expert），第一本 Dart 语言书籍《Dart语言程序设计》译者，GDG Weekly主编，北京 GDG 组织者。"
   track: web
   subtype: keynote
   speakers: [7]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: en
+-
+  id: 006
+  title: "隋雨辰 厦门谷歌开发者社区联合负责人"
+  description: "厦门谷歌开发者社区联合负责人；新博教育培训创始人、教学总监。"
+  track: web
+  subtype: keynote
+  speakers: [8]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: en
+-
+  id: 007
+  title: "吴德文 厦门谷歌开发者社区厦大俱乐部负责人"
+  description: "厦门谷歌开发者社区厦大俱乐部负责人；厦门大学信息学院 工程师。"
+  track: web
+  subtype: keynote
+  speakers: [9]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
   language: en
