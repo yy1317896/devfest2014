@@ -20,7 +20,7 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
-  
+- 
   id: 5
   name: "陈三"
   surname: " "
@@ -31,7 +31,7 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
-    
+- 
   id: 6
   name: "郭国勇"
   surname: " "
@@ -42,7 +42,7 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
-    
+- 
   id: 7
   name: "韩国凯"
   surname: " "
@@ -53,7 +53,7 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
-    
+- 
   id: 8
   name: "隋雨辰"
   surname: " "
@@ -64,7 +64,7 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/"}
-    
+- 
   id: 8
   name: "吴德文"
   surname: " "
