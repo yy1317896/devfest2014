@@ -1,11 +1,22 @@
 - 
+  id: 2
+  name: "Alpha Yang"
+  surname: " "
+  company: " "
+  title: "GDE"
+  bio: ""
+  thumbnailUrl: zhenglingxiang.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/"}
+- 
   id: 3
   name: "郑灵翔"
   surname: " "
   company: " "
   title: "厦门GDG负责人"
   bio: "厦门GDG负责人，厦门大学信息科学与技术学院高级工程师，教育部-谷歌校企合作专业综合改革项目专家委员会委员，全国大学生嵌入式大赛评委，中国计算机学会微机（嵌入式系统）专委会委员，主要从事移动互联网、嵌入式系统、人工智能与模式识别方向的研究。"
-  thumbnailUrl: zhenglingxiang.jpg
+  thumbnailUrl: 
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+LingxiangZheng"}
